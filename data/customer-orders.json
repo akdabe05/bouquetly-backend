@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "customer": {
+      "name": "Akisha Abesamis",
+      "email": "lesheureuxkia@gmail.com",
+      "phone": "09495627577",
+      "address": "Sta. Cruz",
+      "city": "Makati",
+      "postalCode": "1205",
+      "paymentMethod": "cash",
+      "notes": ""
+    },
+    "items": [
+      {
+        "productId": 2,
+        "productName": "Woven Heart",
+        "quantity": 1,
+        "price": 2200,
+        "subtotal": 2200
+      }
+    ],
+    "totalAmount": 2200,
+    "status": "pending",
+    "orderDate": "2025-11-05T09:40:28.708Z"
+  }
+]
